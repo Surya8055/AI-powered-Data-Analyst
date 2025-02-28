@@ -171,12 +171,6 @@
 
 <p>For the full implementation, refer to the code sections in the project files.</p>
 
-<h1><strong>🤖 AI-Powered Data Analysis Chatbot 📊</strong></h1>
-
-<p>Welcome to the AI-powered chatbot project! 🚀 This chatbot helps users analyze datasets and generate visualizations using OpenAI's GPT-3.5-turbo model, LangChain, SQL, and Python libraries such as Pandas, Matplotlib, and Seaborn. 💻📈 It's a smart assistant for data-driven decision-making! 💡</p>
-
-<h1><strong>🔧 Steps</strong></h1>
-
 <h2><strong>Step 3: 🔑 Hardcoding OpenAI API Key in Google Colab</strong></h2>
 <p>In this step, we hardcode the OpenAI API key to communicate with the GPT-3.5-turbo model. This lets the chatbot interact with the OpenAI API, but remember—keep the API key secure! 🔒</p>
 
