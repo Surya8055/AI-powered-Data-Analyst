@@ -1,7 +1,7 @@
 <h1>🎮 GenBI AI-powered Data Analyst 📊</h1>
 
 <h2>📌 Project Overview</h2>  
-<p>Welcome to my project that <strong>analyzes and visualizes video game sales data</strong> using <strong>data analysis</strong> and <strong>Large Language Models (LLMs)</strong>. The dataset, known as the <strong>Vgsales</strong> table, provides detailed information on video games, including 🎯 <strong>sales performance</strong>, 🎮 <strong>platforms</strong>, 📊 <strong>genres</strong>, ⭐ <strong>user ratings</strong>, and 👥 <strong>player counts</strong>.</p>  
+<p>Welcome to my project that <strong>analyzes and visualizes video game sales data</strong> using <strong>data analysis</strong> and <strong>Large Language Models (LLMs)</strong>. The dataset, known as the <strong>Vgsales</strong> table, provides detailed information on video games, including 🎯 <strong>sales performance</strong>, 🎮 <strong>platforms</strong>, 📊 <strong>genres</strong>, ⭐ <strong>user ratings</strong>, and 👥 <strong>player counts</strong>. This project can be used with any dataset provided by the user. The dataset which I have given is a video games sales dataset and would be explaining the project work flow based on it.</p>  
 
 <h2>🚀 Project Goal</h2>  
 <p>The goal of this project is to develop an <strong>AI-powered Data Analyst Chatbot</strong> that can answer user queries by providing either <strong>text-based results</strong> or <strong>visualizations</strong> 📈. The project focuses on <strong>Generative AI techniques</strong>, including 🧠 <strong>Prompt Engineering</strong>, 🤖 <strong>integrating LLM APIs into real-world applications</strong>, 📊 <strong>data analysis</strong>, and 🏆 <strong>aspects of Machine Learning and NLP</strong>.</p>  
