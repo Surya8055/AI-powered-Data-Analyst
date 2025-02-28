@@ -66,15 +66,6 @@
     <li><strong>Genre categorization</strong></li>
 </ul>
 
-
-<p>This data allows us to explore trends such as:</p>
-
-<ul>
-    <li><strong>Year-on-year sales trends</strong></li>
-    <li><strong>Platform popularity</strong></li>
-    <li><strong>Genre categorization</strong></li>
-</ul>
-
 <h1>🎯 Objectives</h1>
 
 <p>The main goals of this project are:</p>
