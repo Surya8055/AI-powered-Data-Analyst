@@ -1,5 +1,7 @@
 <h1>🎮 GenBI AI-powered Data Analyst 📊</h1>
 
+![image](https://github.com/user-attachments/assets/60a78f53-6af5-4a06-8251-13dac0948cbe)
+
 <p>Welcome to my project that analyzes and visualizes <strong>video game sales data</strong> using a combination of <strong>data analysis</strong> and <strong>natural language processing (NLP)</strong> techniques. The data set, known as the <strong>Vgsales</strong> table, provides detailed information on video games, including sales performance, platforms, genres, user ratings, and player counts.</p>
 
 <h1>🛠️ Libraries Used</h1>
