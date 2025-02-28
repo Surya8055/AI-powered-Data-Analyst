@@ -372,7 +372,7 @@ def generate_sales_visualization(df):
 <h1>🚀 Future Scope</h1>
 
 <h2>🔍 Exploring and Applying RAG in New Forms</h2>
-<p>We plan to enhance RAG to reduce latency and increase real-time capability, enhancing data retrieval and processing techniques for greater efficiency.</p>
+<p>Implementation of RAG to reduce latency and increase real-time capability, enhancing data retrieval and processing techniques for greater efficiency.</p>
 
 <h2>💻 Creating an Advanced UI</h2>
 <p>Future UI improvements will focus on creating a more interactive, intuitive interface, enabling greater user experience through enhanced filtering and real-time visualization.</p>
