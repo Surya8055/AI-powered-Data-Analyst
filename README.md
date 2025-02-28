@@ -312,6 +312,14 @@ def generate_sales_visualization(df):
 <h3 style="font-size: 22px;">6.13 🚀 Initialize the Chatbot</h4>
 <p>Finally, the <code>start_chatbot()</code> function is called to initialize the chatbot. This function ties everything together, from the SQL database to the OpenAI API key and context for visual output. 🌟</p>
 
+<h1>📹 Walk Through Video</h1>
+
+▶️ [Watch Walkthrough Video](https://drive.google.com/file/d/1B8XMWzRyd3lVjGRQMnrNH7GVgx5GeeoQ/view?usp=sharing)
+
+
+
+<h1>🛠️📊 Flow Chart</h1>
+
 ![ai_data_processing_flowchart (1)](https://github.com/user-attachments/assets/b37f77ca-aa2b-4c0a-94b2-10972bf94f56)
 
 
